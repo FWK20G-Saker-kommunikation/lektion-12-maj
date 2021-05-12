@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "username": "Ada",
+      "password": "$2b$10$77xleXlZm.QCVoUzMGEOjuq25UPCstWp02vVvHGoPEngh4bd3xVaS",
+      "firstname": "Ada",
+      "lastname": "Lovelace",
+      "email": "ada@lovelace.com",
+      "id": "CTy-BCFt2SBLIdpllgX2Y",
+      "role": "user"
+    },
+    {
+      "username": "Chris",
+      "password": "$2b$10$77xleXlZm.QCVoUzMGEOjuq25UPCstWp02vVvHGoPEngh4bd3xVaS",
+      "firstname": "Christoffer",
+      "lastname": "Wallenberg",
+      "email": "chris@wallenberg.com",
+      "role": "admin",
+      "id": "XmUrI3Dye-nINIrow834p"
+    }
+  ]
+}
