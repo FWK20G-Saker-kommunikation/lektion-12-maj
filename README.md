@@ -25,3 +25,4 @@ Bcrypt: https://www.npmjs.com/package/bcrypt
 
 ## Inspelningar
 
+https://drive.google.com/drive/folders/1ZajgAwqFB6yZDgVZhSbqmNNglBbaQY8z?usp=sharing
